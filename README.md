@@ -9,6 +9,7 @@ This project is an interactive AI Dashboard built using Python and Gradio. It al
 * **Link:** https://raw.githubusercontent.com/datasets/gdp/master/data/gdp.csv
 
 ## Output Screenshots
+![Project Output](https://github.com/likhitha-1231/week2_repository/blob/main/screenshots_1)
 
 ## Instructions to Run the Project
 1. **Clone the repository:**
